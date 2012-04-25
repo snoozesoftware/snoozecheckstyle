@@ -1,0 +1,4 @@
+snoozecheckstyle
+================
+
+Coding conventions
